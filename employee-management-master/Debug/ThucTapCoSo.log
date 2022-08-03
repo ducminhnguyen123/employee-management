@@ -1,0 +1,65 @@
+﻿  CongTy.cpp
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(58,22): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(60,23): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(104,22): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(162,22): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(188,8): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(240,26): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(256,12): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(365,22): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(389,8): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(458,26): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(470,26): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(482,26): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(510,12): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(424,7): warning C4065: switch statement contains 'default' but no 'case' labels
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(620,23): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(675,21): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(686,22): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(701,8): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(776,23): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(785,22): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(800,8): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(843,29): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(906,21): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(929,22): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(944,8): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(974,26): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(1010,25): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(1051,21): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(1067,7): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(1089,25): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(1140,21): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(1165,7): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(1235,26): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(1247,26): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(1259,26): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\CongTy.cpp(1275,12): warning C4551: function call missing argument list
+  Main.cpp
+F:\CTDL và giải thuật\employee-management-master\Main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Ngay.cpp
+F:\CTDL và giải thuật\employee-management-master\Ngay.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+  NhanVien.cpp
+F:\CTDL và giải thuật\employee-management-master\NhanVien.cpp(66,22): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\NhanVien.cpp(81,8): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\NhanVien.cpp(97,38): warning C4018: '<=': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\NhanVien.cpp(200,21): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\NhanVien.cpp(212,21): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\NhanVien.cpp(224,21): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\NhanVien.cpp(240,7): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\NhanVien.cpp(318,21): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\NhanVien.cpp(320,21): warning C4018: '<': signed/unsigned mismatch
+  Stack.cpp
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(172,23): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(148,19): warning C4101: 'arr1': unreferenced local variable
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(149,19): warning C4101: 'arr2': unreferenced local variable
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(241,63): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(261,22): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(278,8): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(294,38): warning C4018: '<=': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(385,22): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(400,8): warning C4551: function call missing argument list
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(597,21): warning C4018: '<': signed/unsigned mismatch
+F:\CTDL và giải thuật\employee-management-master\Stack.cpp(650,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ThucTapCoSo.vcxproj -> F:\CTDL và giải thuật\employee-management-master\Debug\ThucTapCoSo.exe
